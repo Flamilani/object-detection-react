@@ -1,0 +1,7 @@
+name: teste-libras
+buckets:
+  training: teste-libras
+  output: teste-libras
+trainingParams:
+  gpu: k80
+  steps: '500'
